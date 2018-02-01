@@ -25,6 +25,6 @@ magX | short |  rotation X-axis
 magY | short |  rotation Y-axis
 magZ | short |  rotation Z-axis
 temp | u-int |  temperature
-pres | u-int |  pressuere
+pres | u-int |  pressure
 
 No line endings are used, every row from the binary file is 40 bits long, the last 6 bits are unused.
